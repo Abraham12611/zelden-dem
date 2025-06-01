@@ -28,14 +28,14 @@ const Contact = () => {
             clipClass="absolute md:scale-125"
           />
           <ImageClipBox
-            src="/img/swordman.webp"
+            src="/img/zelden-contact.png"
             clipClass="sword-man-clip-path md:scale-125"
           />
         </div>
 
         <div className="flex flex-col items-center text-center">
           <p className="mb-10 font-general text-[10px] uppercase">
-            Join Zentry
+            Join Zelden
           </p>
 
           <AnimatedTitle

@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+public/videos/hero-x.mp4
+public/videos/hero-y.mp4
+public/videos/hero-u.mp4
+public/videos/hero-z.mp4
+
+public\img\gallery-1.webp
+public\img\gallery-5.webp
